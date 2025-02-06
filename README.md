@@ -46,13 +46,7 @@ Pasos para Levantar el Proyecto
 1. Clonar el Repositorio
 Clona el repositorio en tu entorno de GitHub Codespaces:
 
-bash
-Copiar
-Editar
-git clone <URL_DEL_REPOSITORIO>
-cd red_social
-2. Levantar los Servicios
-Ejecuta el siguiente comando para levantar todos los servicios:
+tenemos que forkear el repo
 
 bash
 Copiar
